@@ -1,0 +1,17 @@
+.corpo_pagina{
+    background-color: black;
+    color: white;
+}
+.cabeçalho_titulo{
+ font-size: 60px;
+ text-align: center;
+}
+.cabeçalho_titulo{
+    text-align: center;
+}
+.paragrafo_introdução{
+    text-align: justify;
+    margin: 20px;
+    padding: 20px;
+    font-size: 30px;
+}
